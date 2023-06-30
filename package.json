@@ -1,0 +1,11 @@
+{
+  "name": "harder-password",
+  "version": "1.0.0",
+  "description": "Um programa capaz de gerar simples senhas fortes, para você usar naqueles momentos que em falta criatividade para pensar em algo, ou para aqueles casos em que sua empresa faz a troca de senhas regularmente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauricio Portela",
+  "license": "ISC"
+}
